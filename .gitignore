@@ -1,0 +1,5 @@
+# JetBrains stuff
+.idea/
+
+# CustomRom stuff
+roomservice.xml
