@@ -3,8 +3,8 @@
     <remote name="afstamming"
             fetch="https://github.com/afstamming"/>
 
-    <project path="device/sony/customization" name="android_device_sony_customization"
-             remote="MartinX3-AndroidDevelopment-LineageOS" revision="MartinX3/lineage-17.1"/>
+    <project path="device/sony/customization" name="device-sony-customization"
+             remote="Simonmicro-AndroidDevelopment-LineageOS" revision="Simonmicro/lineage-17.1"/>
 
     <include name="local_manifests/lineageos/aosp.xml"/>
     <include name="local_manifests/lineageos/twrp.xml"/>
