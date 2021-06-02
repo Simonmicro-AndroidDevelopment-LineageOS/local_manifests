@@ -38,6 +38,8 @@
     <remove-project name="device-sony-maple"/>
     <project path="device/sony/maple" name="android_device_sony_maple" remote="MartinX3-AndroidDevelopment-LineageOS" revision="MartinX3/lineage-17.1"/>
     <!--SEINE-->
+    <remove-project name="device-sony-seine"/>
+    <project path="device/sony/seine" name="device-sony-seine" groups="device" remote="Simonmicro-AndroidDevelopment-LineageOS" revision="Simonmicro/lineage-17.1" />
     <remove-project name="device-sony-pdx201"/>
     <project path="device/sony/pdx201" name="android_device_sony_pdx201" groups="device" remote="MartinX3-AndroidDevelopment-LineageOS" revision="MartinX3/lineage-17.1" />
 
