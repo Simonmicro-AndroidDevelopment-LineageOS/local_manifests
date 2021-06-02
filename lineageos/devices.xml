@@ -2,6 +2,8 @@
 <manifest>
     <remote name="MartinX3-AndroidDevelopment-LineageOS"
             fetch="https://github.com/MartinX3-AndroidDevelopment-LineageOS"/>
+    <remote name="Simonmicro-AndroidDevelopment-LineageOS"
+            fetch="https://github.com/Simonmicro-AndroidDevelopment-LineageOS"/>
 
     <!--Sony devices-->
     <!--KUMANO-->
